@@ -11,6 +11,7 @@ The purpose of this is to provide data storage capabilities for created posts an
 ## <ins>Tech Stack</ins>
 
 - Express.js
+- JavaScript
 
 ---
 
